@@ -9,8 +9,6 @@ Software developer based in Rosario, Argentina. I build interactive web applicat
 
 Open to junior and semi-senior roles, internships and technical collaborations.
 
-[Portfolio](https://leann027.github.io/Portfolio/)
-
 ## Featured projects
 
 ### Novafy
@@ -29,7 +27,7 @@ A catalog of my projects with filters, technical write-ups and diagrams generate
 
 **Built with:** React, TypeScript, Vite, Tailwind CSS, Python, Vitest, axe-core
 
-[Live demo](https://leann027.github.io/Portfolio/) · [Source code](https://github.com/leann027/Portfolio)
+[Source code](https://github.com/leann027/Portfolio)
 
 ### AlgoNotebook
 
